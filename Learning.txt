@@ -1,1 +1,3 @@
 Learning Git and Github
+to begin with contributing to open source
+
